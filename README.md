@@ -9,3 +9,4 @@ contract MessageStorage6 {
         return bytes(message).length == 0;
     }
 }
+Implement owner access control
