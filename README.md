@@ -11,3 +11,4 @@ contract MessageStorage6 {
 }
 Implement owner access control
 Remove redundant checks
+Add event for tracking changes
