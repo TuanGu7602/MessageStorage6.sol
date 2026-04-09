@@ -13,3 +13,4 @@ Implement owner access control
 Remove redundant checks
 Add event for tracking changes
 Simplify function logic
+Update contract version
