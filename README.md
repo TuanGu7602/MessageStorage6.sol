@@ -16,3 +16,4 @@ Simplify function logic
 Update contract version
 Refactor contract layout
 Remove unused imports
+Add require statements
